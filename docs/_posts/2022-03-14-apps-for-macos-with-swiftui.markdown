@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apps for macOS using Swift and SwiftUI"
+title:  "Developing apps for the Mac using Swift and SwiftUI"
 date:   2022-03-14 11:13:50 +0100
 categories: general
 ---
